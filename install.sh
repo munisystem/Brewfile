@@ -7,6 +7,10 @@ setup(){
   Brewfile=$HOME/Brewfile
   launchd=$HOME/Library/LaunchAgents
 
+  if [ ! -d "$Brewfile" ]; then
+      git clone -b backup-brewfile git@github.com:munisystem/Brewfile "$Brewfile"
+  fi
+
   if [ ! -d "$launchd" ]; then
     mkdir "$launchd"
   fi
