@@ -13,9 +13,9 @@
     <key>StartCalendarInterval</key>
     <dict>
         <key>Hour</key>
-        <integer>19</integer>
+        <integer>14</integer>
         <key>Minute</key>
-        <integer>26</integer>
+        <integer>00</integer>
     </dict>
     <!-- <key>StandardOutPath</key> -->
     <!-- <string>/dev/null</string> -->
