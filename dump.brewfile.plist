@@ -9,7 +9,7 @@
       <string>/Users/muni/backup-brew.sh</string>
     </array>
     <key>UserName</key>
-    <string>muni</key>
+    <string>muni</string>
     <key>StartCalendarInterval</key>
     <dict>
         <key>Hour</key>
@@ -17,7 +17,7 @@
         <key>Minute</key>
         <integer>00</integer>
     </dict>
-    <!-- <key>StandardOutPath</key> -->
-    <!-- <string>/dev/null</string> -->
+    <key>StandardOutPath</key>
+    <string>/dev/null</string>
 </dict>
 </plist>
