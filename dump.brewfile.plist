@@ -6,7 +6,7 @@
     <string>dump.brewfile</string>
     <key>ProgramArguments</key>
     <array>
-      <string>/Users/muni/backup-brew.sh</string>
+      <string>/Users/muni/Brewfile/backup-brew.sh</string>
     </array>
     <key>UserName</key>
     <string>muni</string>
