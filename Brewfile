@@ -50,6 +50,7 @@ brew 'wget'
 brew 'zsh'
 brew 'caskroom/cask/brew-cask'
 brew 'sanemat/font/ricty', args: ['vim-powerline']
+cask 'alfred'
 cask 'atom'
 cask 'bettertouchtool'
 cask 'caffeine'
