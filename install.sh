@@ -16,8 +16,9 @@ setup(){
   fi
 
   cp -f "$Brewfile/dump.brewfile.plist" "$launchd/dump.brewfile.plist"
-  sudo cp -f "$Brewfile/launchd.conf" "/etc/launchd.conf"
+  cp -f "$Brewfile/setenv.plist" "$launchd/setenv.plist"
   launchctl load ~/Library/LaunchAgents/dump.brewfile.plist
+  launchctl load ~/Library/LaunchAgents/setenv.plist
 }
 
 setup
