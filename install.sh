@@ -16,9 +16,23 @@ setup(){
   fi
 
   cp -f "$Brewfile/dump.brewfile.plist" "$launchd/dump.brewfile.plist"
+  reload "dump.brewfile.plist"
   cp -f "$Brewfile/setenv.plist" "$launchd/setenv.plist"
-  launchctl load ~/Library/LaunchAgents/dump.brewfile.plist
-  launchctl load ~/Library/LaunchAgents/setenv.plist
+  reload "setenv.plist"
+}
+
+# MEMO:
+# すでにloadされている場合に再度同じラベルをloadするとerrorが発生する...
+# が exit code 0 を返されるため、エラーハンドリングができない
+load(){
+  launchctl load ~/Library/LaunchAgents/$1
+}
+
+reload(){
+  echo "Unload $1"
+  launchctl unload ~/Library/LaunchAgents/$1
+  echo "Load $1"
+  load "$1"
 }
 
 setup
