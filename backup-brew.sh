@@ -8,5 +8,5 @@ repository=$HOME/Brewfile
 cd "$repository"
 /usr/local/bin/brew brewdle dump -f
 /usr/bin/git add .
-/usr/bin/git commit -m "Backup Brewfile `date "+\%Y-\%m-\%d \%H:\%M:\%S"`"
+/usr/bin/git commit -m "Backup Brewfile `date "+%Y-%m-%d %H:%M:%S"`"
 /usr/bin/git push origin backup-brewfile
