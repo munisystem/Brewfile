@@ -84,6 +84,7 @@ brew 'zsh'
 brew 'caskroom/cask/brew-cask'
 brew 'railwaycat/emacsmacport/emacs-mac', args: ['with-spacemacs-icon']
 brew 'sanemat/font/ricty', args: ['vim-powerline']
+cask 'Uninstalling brew-cask... (4 files, 7.9K)'
 cask 'alfred'
 cask 'atom'
 cask 'bettertouchtool'
