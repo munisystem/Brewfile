@@ -8,7 +8,7 @@ setup(){
   launchd=$HOME/Library/LaunchAgents
 
   if [ ! -d "$Brewfile" ]; then
-      git clone -b backup-brewfile https://github.com/munisystem/Brewfile "$Brewfile"
+      git clone https://github.com/munisystem/Brewfile "$Brewfile"
   fi
 
   if [ ! -d "$launchd" ]; then
