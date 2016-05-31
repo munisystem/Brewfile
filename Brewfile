@@ -46,6 +46,7 @@ brew 'gdbm'
 brew 'ghq'
 brew 'gibo'
 brew 'git-cal'
+brew 'glide'
 brew 'pinentry'
 brew 'gpg-agent'
 brew 'libusb'
@@ -61,6 +62,7 @@ brew 'jq'
 brew 'kubernetes-cli'
 brew 'libevent'
 brew 'lua'
+brew 'mas'
 brew 'mecab'
 brew 'mecab-ipadic'
 brew 'mercurial'
@@ -119,3 +121,15 @@ cask 'vagrant'
 cask 'virtualbox'
 cask 'visual-studio-code'
 cask 'wireshark'
+mas 'Xcode', id: 497799835
+mas 'Keynote', id: 409183694
+mas 'StuffIt Expander', id: 405580712
+mas 'Microsoft Remote Desktop', id: 715768417
+mas 'VideoCast', id: 876836699
+mas 'Sync', id: 1076860635
+mas 'Pages', id: 409201541
+mas 'Messenger for Facebook', id: 1009179228
+mas 'LINE', id: 539883307
+mas 'Kobito', id: 896624060
+mas 'Veertu', id: 1024069033
+mas 'Numbers', id: 409203825
