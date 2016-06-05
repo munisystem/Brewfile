@@ -104,6 +104,7 @@ cask 'firefox-ja'
 cask 'gitify'
 cask 'google-chrome'
 cask 'google-japanese-ime'
+cask 'insomniax'
 cask 'intellij-idea'
 cask 'iterm2'
 cask 'java'
@@ -134,3 +135,4 @@ mas 'LINE', id: 539883307
 mas 'Kobito', id: 896624060
 mas 'Veertu', id: 1024069033
 mas 'Numbers', id: 409203825
+mas 'Xccello', id: 785109225
