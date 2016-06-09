@@ -95,7 +95,6 @@ cask 'alfred'
 cask 'android-studio'
 cask 'atom'
 cask 'bettertouchtool'
-cask 'caffeine'
 cask 'colorpicker'
 cask 'dash'
 cask 'dockertoolbox'
@@ -110,7 +109,6 @@ cask 'iterm2'
 cask 'java'
 cask 'karabiner'
 cask 'licecap'
-cask 'night-owl'
 cask 'rubymine'
 cask 'skim'
 cask 'skitch'
@@ -124,15 +122,17 @@ cask 'virtualbox'
 cask 'visual-studio-code'
 cask 'wireshark'
 mas 'Xcode', id: 497799835
+mas 'Night Owl', id: 428834068
 mas 'Keynote', id: 409183694
 mas 'StuffIt Expander', id: 405580712
 mas 'Microsoft Remote Desktop', id: 715768417
+mas 'Caffeine', id: 411246225
 mas 'VideoCast', id: 876836699
+mas 'Slack', id: 803453959
 mas 'Sync', id: 1076860635
-mas 'Pages', id: 409201541
 mas 'Messenger for Facebook', id: 1009179228
 mas 'LINE', id: 539883307
+mas 'Dash', id: 449589707
 mas 'Kobito', id: 896624060
 mas 'Veertu', id: 1024069033
-mas 'Numbers', id: 409203825
 mas 'Xccello', id: 785109225
