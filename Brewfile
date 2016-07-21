@@ -2,6 +2,7 @@ tap 'caskroom/cask'
 tap 'caskroom/versions'
 tap 'homebrew/brewdler'
 tap 'homebrew/core'
+tap 'neovim/neovim'
 tap 'railwaycat/emacsmacport'
 tap 'sanemat/font'
 brew 'autoconf'
@@ -94,6 +95,7 @@ brew 'vim', args: ['with-lua']
 brew 'wget'
 brew 'z'
 brew 'zsh'
+brew 'neovim/neovim/neovim'
 brew 'railwaycat/emacsmacport/emacs-mac', args: ['with-spacemacs-icon']
 brew 'sanemat/font/ricty', args: ['vim-powerline']
 cask 'alfred'
