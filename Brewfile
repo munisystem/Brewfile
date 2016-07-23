@@ -35,6 +35,7 @@ brew 'dirmngr'
 brew 'go'
 brew 'docker'
 brew 'drafter', args: ['HEAD']
+brew 'pcre2'
 brew 'fish'
 brew 'libtool'
 brew 'gobject-introspection'
