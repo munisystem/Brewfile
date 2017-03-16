@@ -1,6 +1,7 @@
 tap 'caskroom/cask'
 tap 'caskroom/versions'
 tap 'homebrew/brewdler'
+tap 'homebrew/bundle'
 tap 'homebrew/core'
 tap 'homebrew/fuse'
 tap 'homebrew/python'
@@ -15,6 +16,7 @@ cask 'java'
 cask 'osxfuse'
 cask 'xquartz'
 brew 'libyaml'
+brew 'openssl@1.1'
 brew 'gdbm'
 brew 'openssl'
 brew 'readline'
@@ -49,7 +51,6 @@ brew 'libksba'
 brew 'pth'
 brew 'dirmngr'
 brew 'docker'
-brew 'drafter', args: ['HEAD']
 brew 'e2fsprogs'
 brew 'eigen'
 brew 'envchain'
@@ -96,6 +97,7 @@ brew 'xz'
 brew 'imagemagick'
 brew 'iperf3'
 brew 'iproute2mac'
+brew 'jemalloc'
 brew 'jerm'
 brew 'jo'
 brew 'jp2a'
@@ -106,11 +108,15 @@ brew 'kubernetes-cli'
 brew 'libevent'
 brew 'libsodium'
 brew 'libssh2'
+brew 'libtermkey'
+brew 'libuv'
+brew 'libvterm'
 brew 'lua'
 brew 'mas'
 brew 'mecab'
 brew 'mecab-ipadic'
 brew 'mercurial'
+brew 'msgpack'
 brew 'mysql'
 brew 'nmap'
 brew 'node'
@@ -135,10 +141,12 @@ brew 'rbenv-binstubs'
 brew 'rust'
 brew 'terminal-notifier'
 brew 'terraform'
+brew 'texinfo'
 brew 'the_silver_searcher'
 brew 'tig'
 brew 'tmux'
 brew 'tree'
+brew 'unibilium'
 brew 'vault'
 brew 'vim', args: ['with-lua']
 brew 'wget'
@@ -152,7 +160,7 @@ brew 'homebrew/science/opencv'
 brew 'homebrew/science/opencv3'
 brew 'neovim/neovim/neovim'
 brew 'railwaycat/emacsmacport/emacs-mac', args: ['with-spacemacs-icon']
-brew 'sanemat/font/ricty', args: ['vim-powerline']
+brew 'sanemat/font/ricty', args: ['with-powerline']
 brew 'wantedly/tools/kube'
 brew 'wantedly/tools/sap'
 brew 'wantedly/tools/valec'
@@ -165,46 +173,35 @@ cask 'colorpicker'
 cask 'contexts'
 cask 'dash'
 cask 'dropbox'
-cask 'firefox-ja'
 cask 'gitify'
 cask 'google-chrome'
 cask 'google-japanese-ime'
 cask 'gyazo'
-cask 'hyperswitch'
 cask 'insomniax'
 cask 'intellij-idea'
 cask 'iterm2'
-cask 'karabiner'
 cask 'keycastr'
 cask 'licecap'
-cask 'mactex'
 cask 'rescuetime'
-cask 'rubymine'
 cask 'skim'
 cask 'skitch'
 cask 'skype'
 cask 'slack'
-cask 'soundflower'
 cask 'spectacle'
-cask 'steam'
 cask 'vagrant'
 cask 'virtualbox'
-cask 'visual-studio-code'
-cask 'wireshark'
 mas 'ActivityTimer', id: 808647808
-mas 'Caffeine', id: 411246225
-mas 'Dash', id: 449589707
 mas 'Fluid Browser', id: 1077036385
 mas 'GarageBand', id: 682658836
 mas 'Helium', id: 1054607607
 mas 'iMovie', id: 408981434
-mas 'Install macOS Sierra', id: 1127487414
 mas 'Keynote', id: 409183694
 mas 'Kobito', id: 896624060
 mas 'Maxthon', id: 804619114
-mas 'Messenger for Facebook', id: 1009179228
 mas 'Microsoft Remote Desktop', id: 715768417
 mas 'Night Owl', id: 428834068
+mas 'Numbers', id: 409203825
+mas 'Pages', id: 409201541
 mas 'Slack', id: 803453959
 mas 'StuffIt Expander', id: 405580712
 mas 'Tomato One', id: 907364780
