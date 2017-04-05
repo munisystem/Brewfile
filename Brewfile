@@ -121,6 +121,7 @@ brew 'nmap'
 brew 'node'
 brew 'python3'
 brew 'numpy', args: ['with-python3']
+brew 'nvm'
 brew 'nyancat'
 brew 'openexr'
 brew 'openmotif'
