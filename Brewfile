@@ -187,6 +187,7 @@ cask 'spectacle'
 cask 'vagrant'
 cask 'virtualbox'
 mas 'ActivityTimer', id: 808647808
+mas 'Bear', id: 1091189122
 mas 'Fluid Browser', id: 1077036385
 mas 'GarageBand', id: 682658836
 mas 'Helium', id: 1054607607
