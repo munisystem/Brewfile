@@ -191,6 +191,7 @@ mas 'Fluid Browser', id: 1077036385
 mas 'GarageBand', id: 682658836
 mas 'Helium', id: 1054607607
 mas 'iMovie', id: 408981434
+mas 'Install macOS Sierra', id: 1127487414
 mas 'Keynote', id: 409183694
 mas 'Kobito', id: 896624060
 mas 'Maxthon', id: 804619114
