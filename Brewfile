@@ -157,6 +157,7 @@ brew 'neovim/neovim/neovim', args: ['HEAD']
 brew 'railwaycat/emacsmacport/emacs-mac', args: ['with-spacemacs-icon']
 brew 'wantedly/tools/esnctl'
 brew 'wantedly/tools/kube'
+brew 'wantedly/tools/rid'
 brew 'wantedly/tools/sap'
 brew 'wantedly/tools/valec'
 cask 'alfred'
