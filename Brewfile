@@ -108,7 +108,6 @@ brew "mecab"
 brew "mecab-ipadic"
 brew "mercurial"
 brew "mysql"
-brew "n"
 brew "nmap"
 brew "node"
 brew "nodebrew"
@@ -188,11 +187,8 @@ cask "spectacle"
 cask "vagrant"
 cask "virtualbox"
 mas "ActivityTimer", id: 808647808
-mas "ASUS Firmware Restoration", id: 1020519014
 mas "Bear", id: 1091189122
-mas "Fluid Browser", id: 1077036385
 mas "GarageBand", id: 682658836
-mas "Helium", id: 1054607607
 mas "iMovie", id: 408981434
 mas "Keynote", id: 409183694
 mas "Kobito", id: 896624060
