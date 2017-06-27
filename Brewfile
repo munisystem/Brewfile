@@ -192,6 +192,7 @@ cask "vagrant"
 cask "virtualbox"
 mas "ActivityTimer", id: 808647808
 mas "Bear", id: 1091189122
+mas "Fotor Photo Editor", id: 503039729
 mas "GarageBand", id: 682658836
 mas "iMovie", id: 408981434
 mas "Keynote", id: 409183694
