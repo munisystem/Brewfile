@@ -15,8 +15,6 @@ tap "sanemat/font"
 tap "wantedly/tools", "git@github.com:wantedly/homebrew-tools"
 tap "wata727/tflint"
 cask "java"
-cask "osxfuse"
-cask "xquartz"
 brew "libyaml"
 brew "gdbm"
 brew "openssl"
@@ -27,12 +25,11 @@ brew "ansible"
 brew "autoconf"
 brew "automake"
 brew "awscli"
-brew "gettext"
-brew "axel"
 brew "boost"
 brew "boost-build"
 brew "freetype"
 brew "fontconfig"
+brew "gettext"
 brew "libffi"
 brew "pcre"
 brew "pixman"
@@ -105,17 +102,15 @@ brew "libssh2"
 brew "libusb-compat"
 brew "lua"
 brew "mas"
-brew "mecab"
-brew "mecab-ipadic"
 brew "mercurial"
 brew "mysql"
+brew "neovim", args: ["HEAD"]
 brew "nkf"
 brew "nmap"
 brew "nodebrew"
 brew "nodenv"
 brew "numpy", args: ["with-python3"]
 brew "nvm"
-brew "nyancat"
 brew "openexr"
 brew "openmotif"
 brew "p7zip"
@@ -153,7 +148,6 @@ brew "dtan4/dtan4/ec2c"
 brew "homebrew/science/opencv"
 brew "homebrew/science/opencv3"
 brew "homebrew/science/r"
-brew "neovim/neovim/neovim", args: ["HEAD"]
 brew "railwaycat/emacsmacport/emacs-mac", args: ["with-spacemacs-icon"]
 brew "wantedly/tools/esnctl"
 brew "wantedly/tools/kube"
@@ -164,13 +158,11 @@ brew "wantedly/tools/valecjr"
 brew "wata727/tflint/tflint"
 cask "alfred"
 cask "android-studio"
-cask "arduino"
 cask "atom"
 cask "bettertouchtool"
 cask "colorpicker"
 cask "dash"
 cask "dropbox"
-cask "evernote"
 cask "gitify"
 cask "google-chrome"
 cask "google-japanese-ime"
@@ -192,13 +184,11 @@ cask "vagrant"
 cask "virtualbox"
 mas "ActivityTimer", id: 808647808
 mas "Bear", id: 1091189122
-mas "Fotor Photo Editor", id: 503039729
 mas "GarageBand", id: 682658836
 mas "iMovie", id: 408981434
 mas "Keynote", id: 409183694
 mas "Kobito", id: 896624060
 mas "Maxthon", id: 804619114
-mas "Microsoft Remote Desktop", id: 715768417
 mas "Night Owl", id: 428834068
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
@@ -206,7 +196,5 @@ mas "Slack", id: 803453959
 mas "StuffIt Expander", id: 405580712
 mas "Tomato One", id: 907364780
 mas "Veertu", id: 1024069033
-mas "VideoCast", id: 876836699
 mas "Wantedly Chat", id: 1076860635
-mas "Xccello", id: 785109225
 mas "Xcode", id: 497799835
