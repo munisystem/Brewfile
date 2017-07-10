@@ -102,6 +102,7 @@ brew "libusb-compat"
 brew "lua"
 brew "mas"
 brew "mercurial"
+brew "mruby"
 brew "mysql"
 brew "ndenv"
 brew "neovim", args: ["HEAD"]
