@@ -186,6 +186,7 @@ cask "spectacle"
 cask "vagrant"
 cask "virtualbox"
 mas "ActivityTimer", id: 808647808
+mas "Be Focused", id: 973134470
 mas "Bear", id: 1091189122
 mas "GarageBand", id: 682658836
 mas "iMovie", id: 408981434
