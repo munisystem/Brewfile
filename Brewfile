@@ -126,6 +126,7 @@ brew "postgresql"
 brew "progress"
 brew "protobuf"
 brew "pv"
+brew "pwgen"
 brew "pyenv"
 brew "pyenv-virtualenv"
 brew "r"
@@ -188,20 +189,14 @@ cask "slack"
 cask "spectacle"
 cask "vagrant"
 cask "virtualbox"
-mas "ActivityTimer", id: 808647808
 mas "Be Focused", id: 973134470
 mas "Bear", id: 1091189122
-mas "GarageBand", id: 682658836
 mas "iMovie", id: 408981434
 mas "Keynote", id: 409183694
 mas "Kobito", id: 896624060
-mas "Maxthon", id: 804619114
 mas "Night Owl", id: 428834068
-mas "Numbers", id: 409203825
-mas "Pages", id: 409201541
 mas "Slack", id: 803453959
 mas "StuffIt Expander", id: 405580712
 mas "Tomato One", id: 907364780
-mas "Veertu", id: 1024069033
 mas "Wantedly Chat", id: 1076860635
 mas "Xcode", id: 497799835
