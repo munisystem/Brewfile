@@ -177,6 +177,7 @@ cask "slack"
 cask "spectacle"
 cask "vagrant"
 cask "virtualbox"
+cask "visual-studio-code"
 mas "Be Focused", id: 973134470
 mas "Bear", id: 1091189122
 mas "iMovie", id: 408981434
