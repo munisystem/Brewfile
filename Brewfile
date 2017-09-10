@@ -188,6 +188,7 @@ mas "Be Focused", id: 973134470
 mas "Bear", id: 1091189122
 mas "Day One", id: 1055511498
 mas "Display Menu", id: 549083868
+mas "FLAC MP3 Converter", id: 982124349
 mas "iMovie", id: 408981434
 mas "Keynote", id: 409183694
 mas "Kobito", id: 896624060
