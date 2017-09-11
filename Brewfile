@@ -184,16 +184,13 @@ cask "spectacle"
 cask "vagrant"
 cask "virtualbox"
 cask "visual-studio-code"
-mas "Be Focused", id: 973134470
 mas "Bear", id: 1091189122
 mas "Day One", id: 1055511498
 mas "Display Menu", id: 549083868
-mas "FLAC MP3 Converter", id: 982124349
 mas "iMovie", id: 408981434
 mas "Keynote", id: 409183694
 mas "Kobito", id: 896624060
 mas "Lungo", id: 1263070803
-mas "Night Owl", id: 428834068
 mas "Slack", id: 803453959
 mas "StuffIt Expander", id: 405580712
 mas "Tomato One", id: 907364780
