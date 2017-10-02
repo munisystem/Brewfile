@@ -194,5 +194,6 @@ mas "Lungo", id: 1263070803
 mas "Slack", id: 803453959
 mas "StuffIt Expander", id: 405580712
 mas "Tomato One", id: 907364780
+mas "Trello", id: 1278508951
 mas "Wantedly Chat", id: 1076860635
 mas "Xcode", id: 497799835
