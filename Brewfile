@@ -186,11 +186,8 @@ cask "spectacle"
 cask "vagrant"
 cask "virtualbox"
 cask "visual-studio-code"
-mas "Bear", id: 1091189122
 mas "Day One", id: 1055511498
 mas "Display Menu", id: 549083868
-mas "iMovie", id: 408981434
-mas "Keynote", id: 409183694
 mas "Kobito", id: 896624060
 mas "Lungo", id: 1263070803
 mas "Slack", id: 803453959
