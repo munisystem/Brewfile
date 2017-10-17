@@ -76,10 +76,8 @@ brew "neovim", args: ["HEAD"]
 brew "nkf"
 brew "nmap"
 brew "nodebrew"
-brew "nodenv"
 brew "xz"
 brew "numpy", args: ["with-python3"]
-brew "nvm"
 brew "openexr"
 brew "openmotif"
 brew "pcre2"
