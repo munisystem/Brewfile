@@ -50,7 +50,7 @@ brew "mas"
 brew "mecab"
 brew "mruby"
 brew "mysql"
-brew "neovim"
+brew "neovim", args: ["HEAD"]
 brew "nginx"
 brew "nodebrew"
 brew "peco"
