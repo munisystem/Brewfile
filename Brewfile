@@ -71,6 +71,7 @@ brew "the_platinum_searcher"
 brew "the_silver_searcher"
 brew "tig"
 brew "tmux"
+brew "tmux-cssh"
 brew "tree"
 brew "vim", args: ["with-lua"]
 brew "yarn"
