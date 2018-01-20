@@ -107,7 +107,6 @@ cask "java"
 cask "licecap"
 cask "minikube"
 cask "rubymine"
-cask "skitch"
 cask "slack"
 cask "vagrant"
 cask "virtualbox"
@@ -119,6 +118,7 @@ mas "iMovie", id: 408981434
 mas "Keynote", id: 409183694
 mas "Kobito", id: 896624060
 mas "Lungo", id: 1263070803
+mas "Monosnap", id: 540348655
 mas "Slack", id: 803453959
 mas "The Unarchiver", id: 425424353
 mas "Tomato One", id: 907364780
