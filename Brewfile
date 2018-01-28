@@ -51,6 +51,7 @@ brew "lua"
 brew "lua@5.1"
 brew "mas"
 brew "mecab"
+brew "mercurial"
 brew "mruby"
 brew "mysql"
 brew "neovim", args: ["HEAD"]
