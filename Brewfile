@@ -113,6 +113,7 @@ cask "slack"
 cask "vagrant"
 cask "virtualbox"
 cask "visual-studio-code"
+mas "1Password", id: 443987910
 mas "Bear", id: 1091189122
 mas "Display Menu", id: 549083868
 mas "Helium", id: 1054607607
