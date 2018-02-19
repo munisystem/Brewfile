@@ -76,6 +76,7 @@ brew "the_silver_searcher"
 brew "tig"
 brew "tmux"
 brew "tmux-cssh"
+brew "tmux-xpanes"
 brew "tree"
 brew "vim", args: ["with-lua"]
 brew "yarn"
