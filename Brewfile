@@ -56,6 +56,7 @@ brew "mruby"
 brew "mysql"
 brew "neovim", args: ["HEAD"]
 brew "nginx"
+brew "nkf"
 brew "nodebrew"
 brew "peco"
 brew "percona-toolkit"
