@@ -1,14 +1,12 @@
-Brewfile
-=====
+# Brewfile [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-Auto backup Brewfile by launchd.
+Manage dependency packages of my development environment automatically.
 
 ## Installation
 
 ```sh
-$ curl -sL https://raw.githubusercontent.com/munisystem/Brewfile/master/install.sh | sh
+$ bash <(curl -sL https://raw.githubusercontent.com/munisystem/Brewfile/master/entrypoint)
 ```
 
-## Backup Schedule
-
-Everyday 14:00
+## LICENSE
+MIT © munisystem
