@@ -102,6 +102,7 @@ brew "tmux-cssh"
 brew "tmux-xpanes"
 brew "tree"
 brew "vim", args: ["with-lua"]
+brew "watch"
 brew "yarn"
 brew "z"
 brew "zplug"
