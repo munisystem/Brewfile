@@ -60,7 +60,7 @@ brew "haskell-stack"
 brew "lua"
 brew "highlight"
 brew "hub"
-brew "imagemagick@6"
+brew "imagemagick@6", link: true
 brew "jerm"
 brew "oniguruma"
 brew "jq"
