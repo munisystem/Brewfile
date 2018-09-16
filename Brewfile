@@ -94,6 +94,7 @@ brew "ruby-build"
 brew "rbenv"
 brew "rbenv-binstubs"
 brew "reattach-to-user-namespace"
+brew "redis"
 brew "rust", link: false
 brew "socat"
 brew "stern"
