@@ -159,6 +159,7 @@ mas "Bear", id: 1091189122
 mas "Display Menu", id: 549083868
 mas "Helium", id: 1054607607
 mas "iMovie", id: 408981434
+mas "Install macOS Mojave", id: 0
 mas "Keynote", id: 409183694
 mas "Kobito", id: 896624060
 mas "Lungo", id: 1263070803
