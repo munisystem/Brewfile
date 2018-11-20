@@ -165,6 +165,7 @@ mas "Keynote", id: 409183694
 mas "Kobito", id: 896624060
 mas "Lungo", id: 1263070803
 mas "Monosnap", id: 540348655
+mas "Progress Bar", id: 1441939775
 mas "Slack", id: 803453959
 mas "The Unarchiver", id: 425424353
 mas "Tomato One", id: 907364780
