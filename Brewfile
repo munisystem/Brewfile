@@ -86,6 +86,7 @@ brew "neovim", args: ["HEAD"]
 brew "nginx"
 brew "nkf"
 brew "nodebrew"
+brew "parallel"
 brew "percona-toolkit"
 brew "postgresql"
 brew "pwgen"
