@@ -19,7 +19,6 @@ tap "ksonnet/tap"
 tap "neovim/neovim"
 tap "osx-cross/avr"
 tap "wantedly/tools", "git@github.com:wantedly/homebrew-tools"
-cask "osxfuse"
 brew "libyaml"
 brew "gdbm"
 brew "readline"
@@ -134,8 +133,6 @@ brew "wantedly/tools/sap"
 brew "wantedly/tools/valec"
 brew "wantedly/tools/valecjr"
 cask "alfred"
-cask "android-studio"
-cask "atom"
 cask "bettertouchtool"
 cask "dash"
 cask "dropbox"
@@ -154,22 +151,17 @@ cask "marp"
 cask "minikube"
 cask "rubymine"
 cask "slack"
-cask "vagrant"
 cask "virtualbox"
 cask "visual-studio-code"
 mas "1Password 7", id: 1333542190
-mas "Be Focused", id: 973134470
-mas "Bear", id: 1091189122
 mas "Display Menu", id: 549083868
 mas "Helium", id: 1054607607
 mas "iMovie", id: 408981434
 mas "Keynote", id: 409183694
-mas "Kobito", id: 896624060
 mas "Lungo", id: 1263070803
 mas "Monosnap", id: 540348655
 mas "Progress Bar", id: 1441939775
 mas "Slack", id: 803453959
 mas "The Unarchiver", id: 425424353
 mas "Tomato One", id: 907364780
-mas "Trello", id: 1278508951
 mas "Xcode", id: 497799835
