@@ -1,6 +1,5 @@
 tap "b4b4r07/history"
 tap "cema-sp/tap"
-tap "crisidev/chunkwm"
 tap "datawire/blackbird"
 tap "dtan4/dtan4"
 tap "hairyhenderson/tap"
@@ -124,8 +123,6 @@ brew "hairyhenderson/tap/gomplate"
 brew "heroku/brew/heroku"
 brew "itchyny/fillin/fillin"
 brew "izumin5210/tools/grapi"
-brew "koekeishiya/formulae/chunkwm"
-brew "koekeishiya/formulae/skhd"
 brew "ksonnet/tap/ks"
 brew "osx-cross/avr/avr-gcc"
 brew "wantedly/tools/esnctl"
@@ -163,6 +160,7 @@ mas "Keynote", id: 409183694
 mas "Lungo", id: 1263070803
 mas "Monosnap", id: 540348655
 mas "Progress Bar", id: 1441939775
+mas "Skitch", id: 425955336
 mas "Slack", id: 803453959
 mas "The Unarchiver", id: 425424353
 mas "Tomato One", id: 907364780
