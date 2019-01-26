@@ -130,6 +130,18 @@ cask "dash"
 cask "gitify"
 cask "google-cloud-sdk"
 cask "google-japanese-ime"
+cask "gyazo"
+cask "hyper"
+cask "insomnia"
+cask "iterm2"
+cask "java8"
+cask "karabiner-elements"
+cask "licecap"
+cask "marp"
+cask "minikube"
+cask "rubymine"
+cask "slack"
+cask "visual-studio-code"
 mas "GarageBand", id: 682658836
 mas "iMovie", id: 408981434
 mas "Keynote", id: 409183694
