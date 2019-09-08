@@ -38,6 +38,7 @@ brew "libtool"
 brew "cfssl"
 brew "cmake"
 brew "curl"
+brew "direnv"
 brew "envchain"
 brew "gmp"
 brew "libevent"
@@ -78,7 +79,7 @@ brew "mecab-ipadic"
 brew "python@2"
 brew "mercurial"
 brew "mruby"
-brew "mysql", link: false
+brew "mysql", restart_service: true
 brew "neovim", args: ["HEAD"]
 brew "nginx"
 brew "nkf"
