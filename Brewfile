@@ -57,6 +57,7 @@ brew "gcc"
 brew "gdb"
 brew "ghq"
 brew "go"
+brew "glide"
 brew "graphviz"
 brew "protobuf"
 brew "grpc"
@@ -146,9 +147,9 @@ cask "java8"
 cask "karabiner-elements"
 cask "licecap"
 cask "minikube"
+cask "mozart2"
 cask "slack"
 cask "visual-studio-code"
-cask "dskecse/tap/mozart2"
 mas "1Password 7", id: 1333542190
 mas "Bear", id: 1091189122
 mas "Display Menu", id: 549083868
