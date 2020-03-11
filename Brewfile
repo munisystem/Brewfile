@@ -70,6 +70,7 @@ brew "haskell-stack"
 brew "hey"
 brew "lua"
 brew "highlight"
+brew "httpstat"
 brew "hub"
 brew "imagemagick@6", link: true
 brew "jerm"
