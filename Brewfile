@@ -170,5 +170,6 @@ mas "Display Menu", id: 549083868
 mas "iMovie", id: 408981434
 mas "Keynote", id: 409183694
 mas "LINE", id: 539883307
+mas "Lungo", id: 1263070803
 mas "Micro Sniff", id: 1504024265
 mas "OmniFocus", id: 1346203938
