@@ -37,7 +37,7 @@ brew "avrdude"
 brew "awscli"
 brew "caddy"
 brew "fontconfig"
-brew "gettext"
+brew "gettext", link: false
 brew "libffi"
 brew "certbot"
 brew "libtool"
