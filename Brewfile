@@ -120,6 +120,7 @@ brew "terminal-notifier"
 brew "terraform", link: false
 brew "tfenv"
 brew "the_platinum_searcher"
+brew "the_silver_searcher"
 brew "tig"
 brew "tmux"
 brew "tmux-xpanes"
