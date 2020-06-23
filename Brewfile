@@ -128,6 +128,7 @@ brew "stern"
 brew "terminal-notifier"
 brew "terraform", link: false
 brew "tfenv"
+brew "tflint"
 brew "the_platinum_searcher"
 brew "the_silver_searcher"
 brew "tig"
