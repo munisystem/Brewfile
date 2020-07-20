@@ -177,7 +177,6 @@ cask "minikube"
 cask "mozart2"
 cask "slack"
 cask "visual-studio-code"
-mas "1Password 7", id: 1333542190
 mas "Display Menu", id: 549083868
 mas "iMovie", id: 408981434
 mas "Keynote", id: 409183694
