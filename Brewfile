@@ -31,7 +31,7 @@ brew "libyaml"
 brew "openssl@1.1"
 brew "readline"
 brew "xz"
-brew "python@3.8"
+brew "python@3.8", link: false
 brew "ansible"
 brew "asciinema"
 brew "autoconf"
