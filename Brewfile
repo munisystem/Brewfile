@@ -92,6 +92,7 @@ brew "lua"
 brew "highlight"
 brew "httpstat"
 brew "hub"
+brew "hugo"
 brew "imagemagick@6", link: true
 brew "jerm"
 brew "oniguruma"
