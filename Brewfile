@@ -46,7 +46,7 @@ brew "caddy"
 brew "fontconfig"
 brew "gettext"
 brew "libffi"
-brew "python@3.8", link: false
+brew "python@3.8"
 brew "glib"
 brew "cairo"
 brew "certbot"
