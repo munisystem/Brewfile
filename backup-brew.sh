@@ -3,7 +3,7 @@
 set -e
 set -u
 
-repository=$HOME/Brewfile
+repository=$HOME/repos/src/github.com/munisystem/Brewfile
 
 cd "$repository"
 /usr/local/bin/brew bundle dump -f
